@@ -3,7 +3,7 @@
 A simple, interactive to-do list application built with **HTML, CSS, and JavaScript**.  
 
 ## 📌 Preview  
-![image](https://github.com/user-attachments/assets/9deae157-8efb-45ba-af1b-c2029b7ad6bb) 
+<img src="https://github.com/user-attachments/assets/9deae157-8efb-45ba-af1b-c2029b7ad6bb" alt="image" width="300">
 
 ## ✨ Features  
 - ✅ Add tasks dynamically.  
@@ -20,11 +20,11 @@ A simple, interactive to-do list application built with **HTML, CSS, and JavaScr
    ```sh
    git clone https://github.com/Japneets16/To-Do-List.git
 
-##🔧 Possible Improvements
-💾 Local Storage: Save tasks between sessions.
-🔀 Drag & Drop: Reorder tasks interactively.
-🏷️ Categories: Sort tasks by priority (High/Medium/Low).
+## 🔧 Possible Improvements
+- 💾 Local Storage: Save tasks between sessions.
+- 🔀 Drag & Drop: Reorder tasks interactively.
+- 🏷️ Categories: Sort tasks by priority (High/Medium/Low).
 
-##🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request for enhancements.
 
